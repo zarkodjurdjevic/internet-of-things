@@ -1,2 +1,2 @@
 # internet-of-things
-internet of things repo
+internet of things repo van Zarko Djurdjevic
