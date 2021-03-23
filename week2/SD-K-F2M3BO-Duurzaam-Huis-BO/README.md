@@ -1,3 +1,6 @@
+opdracht van week 4 via upload toegevoegd door problemen met pushen
+
+
 # SD-K-F2M3BO-Duurzaam-Huis-BO
 
   
