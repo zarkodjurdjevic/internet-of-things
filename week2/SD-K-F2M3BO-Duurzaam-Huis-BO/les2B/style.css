@@ -1,4 +1,8 @@
 
+body {
+    background-color: aqua;
+    color: red;
+}
 html{
     font-family: monospace;
     font-weight: bold; 
@@ -9,8 +13,8 @@ html{
     }       
 .myForm input[type=text]{
     width: 30%;
-    padding: 12px 20px;
-    margin: 8px 0;
+    padding: 40px 40px;
+    margin: 58px 0;
     box-sizing: border-box;
     border-color: #FF00FF;
     }     

@@ -31,7 +31,7 @@
                  // hier moet jij zelf code schrijven
                     
                 case "easter egg":
-                    print " <br> hier moet jij zelf code schrijven";
+                    print " <br> hello everybody my name is Zarko Djurdjevic and im 16 years old";
                     break;
                 case "bedenk zelf een code":
                     // jouw code hier
